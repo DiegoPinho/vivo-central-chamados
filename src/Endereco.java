@@ -20,5 +20,4 @@ public class Endereco {
   public String getCep() {
     return cep;
   }
-
 }

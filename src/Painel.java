@@ -1,0 +1,6 @@
+/**
+ * Painel
+ */
+public class Painel {
+
+}
